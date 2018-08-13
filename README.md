@@ -8,29 +8,34 @@ It comes from the [EasyHPC](http://www.easyhpc.org/)
   - [1.1	linux常用快捷键以及帮助手册](https://github.com/Zhaojiahua/Linux-Basic-Operation#11linux%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BB%A5%E5%8F%8A%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C)
     - [1.1.1 快捷键](https://github.com/Zhaojiahua/Linux-Basic-Operation#111-%E5%BF%AB%E6%8D%B7%E9%94%AE)
     - [1.1.2 帮助手册](https://github.com/Zhaojiahua/Linux-Basic-Operation#112-%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C)
-  - [1.2	软件安装](https://github.com/Zhaojiahua/Linux-Basic-Operation#12%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85)
-  - [1.3	用户权限管理](https://github.com/Zhaojiahua/Linux-Basic-Operation#13%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86)
+    	[1.2	软件安装](https://github.com/Zhaojiahua/Linux-Basic-Operation#12%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85)
+    	[1.3	用户权限管理](https://github.com/Zhaojiahua/Linux-Basic-Operation#13%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86)
     - [1.3.1 查看用户](https://github.com/Zhaojiahua/Linux-Basic-Operation#131-%E6%9F%A5%E7%9C%8B%E7%94%A8%E6%88%B7)
-  - [1.4	文件权限管理](https://github.com/Zhaojiahua/Linux-Basic-Operation#14%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86)
+    	[1.4	文件权限管理](https://github.com/Zhaojiahua/Linux-Basic-Operation#14%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86)
     - [1.4.1 查看文件权限](https://github.com/Zhaojiahua/Linux-Basic-Operation#141-%E6%9F%A5%E7%9C%8B%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90)
     - [1.4.2 变更文件所有者](https://github.com/Zhaojiahua/Linux-Basic-Operation#142-%E5%8F%98%E6%9B%B4%E6%96%87%E4%BB%B6%E6%89%80%E6%9C%89%E8%80%85)
     - [1.4.3 修改文件权限](https://github.com/Zhaojiahua/Linux-Basic-Operation#143-%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90)
-  - [1.5	目录及文件操作](https://github.com/Zhaojiahua/Linux-Basic-Operation#15%E7%9B%AE%E5%BD%95%E5%8F%8A%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C)
+    	[1.5	目录及文件操作](https://github.com/Zhaojiahua/Linux-Basic-Operation#15%E7%9B%AE%E5%BD%95%E5%8F%8A%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C)
     - [1.5.1 基本目录操作](https://github.com/Zhaojiahua/Linux-Basic-Operation#151-%E5%9F%BA%E6%9C%AC%E7%9B%AE%E5%BD%95%E6%93%8D%E4%BD%9C)
     - [1.5.2 基本文件操作](https://github.com/Zhaojiahua/Linux-Basic-Operation#152-%E5%9F%BA%E6%9C%AC%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C)
-  - [1.6	搜索文件](https://github.com/Zhaojiahua/Linux-Basic-Operation#16%E6%90%9C%E7%B4%A2%E6%96%87%E4%BB%B6)
-  - [1.7	文件解压缩](https://github.com/Zhaojiahua/Linux-Basic-Operation#17%E6%96%87%E4%BB%B6%E8%A7%A3%E5%8E%8B%E7%BC%A9)
-  - [1.8	管道与一些文本命令](https://github.com/Zhaojiahua/Linux-Basic-Operation#18%E7%AE%A1%E9%81%93%E4%B8%8E%E4%B8%80%E4%BA%9B%E6%96%87%E6%9C%AC%E5%91%BD%E4%BB%A4)
-  - [1.9	文本处理](https://github.com/Zhaojiahua/Linux-Basic-Operation#19%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86)
+    	[1.6	搜索文件](https://github.com/Zhaojiahua/Linux-Basic-Operation#16%E6%90%9C%E7%B4%A2%E6%96%87%E4%BB%B6)
+    	[1.7	文件解压缩](https://github.com/Zhaojiahua/Linux-Basic-Operation#17%E6%96%87%E4%BB%B6%E8%A7%A3%E5%8E%8B%E7%BC%A9)
+    	[1.8	管道与一些文本命令](https://github.com/Zhaojiahua/Linux-Basic-Operation#18%E7%AE%A1%E9%81%93%E4%B8%8E%E4%B8%80%E4%BA%9B%E6%96%87%E6%9C%AC%E5%91%BD%E4%BB%A4)
+    	[1.9	文本处理](https://github.com/Zhaojiahua/Linux-Basic-Operation#19%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86)
+
   - [1.10  重定向](https://github.com/Zhaojiahua/Linux-Basic-Operation#110--%E9%87%8D%E5%AE%9A%E5%90%91)
+
   - [1.11  进程的基本操作](https://github.com/Zhaojiahua/Linux-Basic-Operation#111--%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
+
   - [1.12  进程管理](https://github.com/Zhaojiahua/Linux-Basic-Operation#112--%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86)
 
-- [Chapter 2	Vim基础入门](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-2vim%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8)
+    [Chapter 2	Vim基础入门](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-2vim%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8)
 
-- [Chapter 3	Shell入门教程](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-3shell%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
+    - 2.1
 
-- [Chapter 4	GDB入门教程](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-4gdb%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
+    [Chapter 3	Shell入门教程](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-3shell%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
+
+    [Chapter 4	GDB入门教程](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-4gdb%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
 
   
 
