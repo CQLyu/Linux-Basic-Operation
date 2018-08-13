@@ -24,9 +24,9 @@ It comes from the [EasyHPC](http://www.easyhpc.org/)
   - [1.10  重定向](https://github.com/Zhaojiahua/Linux-Basic-Operation#110--%E9%87%8D%E5%AE%9A%E5%90%91)
   - [1.11  进程的基本操作](https://github.com/Zhaojiahua/Linux-Basic-Operation#111--%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
   - [1.12  进程管理](https://github.com/Zhaojiahua/Linux-Basic-Operation#112--%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86)
-- Chapter 2	Vim基础入门
-- Chapter 3	Shell入门教程
-- Chapter 4	GDB入门教程
+		Chapter 2	Vim基础入门
+		Chapter 3	Shell入门教程
+		Chapter 4	GDB入门教程
 
 
 
@@ -606,5 +606,13 @@ Linux提供了许多与搜索相关的命令给用户使用。
   pstree
   ```
 
+## Chapter 2	Vim基础入门
 
+
+
+## Chapter 3	Shell入门教程
+
+
+
+## Chapter 4	GDB入门教程
 
