@@ -1,6 +1,10 @@
 # Linux Basic Operation
 It comes from the [EasyHPC](http://www.easyhpc.org/)
 
+[TOC]
+
+
+
 ## Chapter 1	Linux基础入门
 
 ### 1.1	linux常用快捷键以及帮助手册 
