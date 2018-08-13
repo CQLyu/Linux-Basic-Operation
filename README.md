@@ -29,13 +29,6 @@ It comes from the [EasyHPC](http://www.easyhpc.org/)
 
   - [1.12  进程管理](https://github.com/Zhaojiahua/Linux-Basic-Operation#112--%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86)
 
-    [Chapter 2	Vim基础入门](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-2vim%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8)
-
-    - 2.1
-
-    [Chapter 3	Shell入门教程](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-3shell%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
-
-    [Chapter 4	GDB入门教程](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-4gdb%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
 
   
 
