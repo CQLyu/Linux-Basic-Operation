@@ -1,7 +1,29 @@
 # Linux Basic Operation
 It comes from the [EasyHPC](http://www.easyhpc.org/)
 
-[TOC]
+## 目录
+
+- [Chapter 1	Linux基础入门](https://github.com/Zhaojiahua/Linux-Basic-Operation#chapter-1linux%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8)
+  - [1.1	linux常用快捷键以及帮助手册](https://github.com/Zhaojiahua/Linux-Basic-Operation#11linux%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BB%A5%E5%8F%8A%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C)
+    - [1.1.1 快捷键](https://github.com/Zhaojiahua/Linux-Basic-Operation#111-%E5%BF%AB%E6%8D%B7%E9%94%AE)
+    - 1.1.2 帮助手册
+  - 1.2	软件安装
+  - 1.3	用户权限管理
+    - 1.3.1 查看用户
+  - 1.4	文件权限管理
+    - 1.4.1 查看文件权限
+    - 1.4.2 变更文件所有者
+    - 1.4.3 修改文件权限
+  - 1.5	目录及文件操作
+    - 1.5.1 基本目录操作
+    - 1.5.2 基本文件操作
+  - 1.6	搜索文件
+  - 1.7	文件解压缩
+  - 1.8	管道与一些文本命令
+  - 1.9	文本处理
+  - 1.10  重定向
+  - 1.11  进程的基本操作
+  - 1.12  进程管理
 
 
 
